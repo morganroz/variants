@@ -1,9 +1,9 @@
 ## Variants
 ### [NRAS](#NRAS)  
-- [NC_000001.10:g.115258747C>T](#NRAS-V1)  
+- [NC_000001.10:g.115258747C>T](#NC_000001.10:g.115258747C>T)  
 
-## NRAS {#NRAS}
-### NC_000001.10:g.115258747C>T {#NRAS-V1}
+## NRAS
+### NC_000001.10:g.115258747C>T
 
 - Reference genome:	[NC_000001.10](https://www.ncbi.nlm.nih.gov/nuccore/NC_000001.10)  
 - Position: 115258747  
