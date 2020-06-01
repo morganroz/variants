@@ -1,5 +1,5 @@
 ## Variants
-### [NRAS](#NRAS)  
+### [NRAS](#nras)  
 - [NC_000001.10:g.115258747C>T](#nc00000110g115258747ct)  
 
 ## NRAS
